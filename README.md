@@ -18,3 +18,6 @@ Map of Network in ReadTeam Operations (Petromaz.ir)
 | ID | Challenges | Files | Video |
 |---|---|---|---|
 | 00 | Intro | [🗂 Files](./00-Intro/) | [👾 Videos](./00-Intro/) |
+| 01 | Sanity Check | [🗂 Files](./01-Sanity-Check/) | [👾 Videos](./00-Intro/) |
+| 02 | Recon 1 | [🗂 Files](./02-03-Recon%201%20&%202/) | [👾 Videos](./00-Intro/) |
+| 03 | Recon 2 | [🗂 Files](./02-03-Recon%201%20&%202/) | [👾 Videos](./00-Intro/) |
