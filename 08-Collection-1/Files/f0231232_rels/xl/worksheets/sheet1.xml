@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<worksheet
+	xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main"
+	xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="x14ac xr xr2 xr3"
+	xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac"
+	xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision"
+	xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2"
+	xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xr:uid="{00000000-0001-0000-0000-000000000000}">
+	<dimension ref="B3:I13"/>
+	<sheetViews>
+		<sheetView tabSelected="1" topLeftCell="B1" workbookViewId="0">
+			<selection activeCell="B13" sqref="B13"/>
+		</sheetView>
+	</sheetViews>
+	<sheetFormatPr defaultRowHeight="15" x14ac:dyDescent="0.25"/>
+	<cols>
+		<col min="2" max="2" width="62.28515625" bestFit="1" customWidth="1"/>
+		<col min="3" max="3" width="60.85546875" bestFit="1" customWidth="1"/>
+		<col min="5" max="5" width="15.85546875" bestFit="1" customWidth="1"/>
+		<col min="8" max="8" width="21" bestFit="1" customWidth="1"/>
+	</cols>
+	<sheetData>
+		<row r="3" spans="2:9" x14ac:dyDescent="0.25">
+			<c r="B3" t="s">
+				<v>0</v>
+			</c>
+			<c r="C3" t="str">
+				<f>CONCATENATE(E3,SUM(C10,G3))</f>
+				<v></v>
+			</c>
+			<c r="E3" t="s">
+				<v>1</v>
+			</c>
+			<c r="G3" t="s">
+				<v>3</v>
+			</c>
+		</row>
+		<row r="4" spans="2:9" x14ac:dyDescent="0.25">
+			<c r="I4">
+				<v>3</v>
+			</c>
+		</row>
+		<row r="6" spans="2:9" x14ac:dyDescent="0.25">
+			<c r="B6" t="str">
+				<f>CONCATENATE("TUFaQVBBXzA1MmE",E6,"MmI2MzQ5YmVjNTk",C10,H6)</f>
+				<v></v>
+			</c>
+			<c r="E6">
+				<v>0</v>
+			</c>
+			<c r="H6" t="str">
+				<f>CONCATENATE(G8,I4,G3)</f>
+				<v></v>
+			</c>
+		</row>
+		<row r="8" spans="2:9" x14ac:dyDescent="0.25">
+			<c r="G8" t="s">
+				<v>2</v>
+			</c>
+		</row>
+		<row r="10" spans="2:9" x14ac:dyDescent="0.25">
+			<c r="C10">
+				<v>0</v>
+			</c>
+			<c r="I10">
+				<v>3</v>
+			</c>
+		</row>
+		<row r="13" spans="2:9" x14ac:dyDescent="0.25">
+			<c r="E13">
+				<v>1340</v>
+			</c>
+		</row>
+	</sheetData>
+	<pageMargins left="0.7" right="0.7" top="0.75" bottom="0.75" header="0.3" footer="0.3"/>
+</worksheet>
