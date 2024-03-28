@@ -1,7 +1,7 @@
 # Lateral Movement 2
 
 1. Resume From [🗂 Discovery 1](../04-Discovery-1/)
-2. Rev Eng `ExecuteCommands` Function in [🗂 Discovery 1](../04-Discovery-1/06-main)
+2. Rev Eng `ExecuteCommands` Function in [🗂 main](../04-Discovery-1/06-main)
 
 3. Change Malware Response in [🗂 malware.go](./03-main.go)
 ```
