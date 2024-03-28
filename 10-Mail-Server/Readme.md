@@ -32,6 +32,5 @@ ssh-keygen -t rsa
 ```
 scp -r zimbra@mail.petromaz.ir:/opt/zimbra/store/0 ./08-store0
 ```
-9. Check Emails and Decode Files
-**Base64 Decoder:** `https://www.freeformatter.com/base64-encoder.html`
+9. Check Emails and Decode Files: `https://www.freeformatter.com/base64-encoder.html`
 10. Network Map: [🗂 Network Map](./09-258-3.xlsx)
