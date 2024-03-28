@@ -30,3 +30,4 @@ Map of Network in ReadTeam Operations (Petromaz.ir)
 | 10 | Mail Server | [🗂 Files](./10-Mail-Server/) | [👾 Videos](./00-Intro/) |
 | 11 | PC3 | [🗂 Files](./11-PC3/) | [👾 Videos](./00-Intro/) |
 | 12 | VPN Server | [🗂 Files](./12-VPN-Server/) | [👾 Videos](./00-Intro/) |
+| 13 | PC2 | [🗂 Files](./13-PC2/) | [👾 Videos](./00-Intro/) |
