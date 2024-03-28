@@ -24,4 +24,4 @@ Map of Network in ReadTeam Operations (Petromaz.ir)
 | 04 | Discovery 1 | [🗂 Files](./04-Discovery-1/) | [👾 Videos](./00-Intro/) |
 | 05 | Lateral Movement 2 | [🗂 Files](./05-Lateral-Movement-2/) | [👾 Videos](./00-Intro/) |
 | 06 | PC1 | [🗂 Files](./06-PC1/) | [👾 Videos](./00-Intro/) |
-
+| 07 | Auction | [🗂 Files](./07-Auction/) | [👾 Videos](./00-Intro/) |
