@@ -1,6 +1,6 @@
 # Discovery 1
 
-1. Resume From [🗂 Files](../02-03-Recon%201%20&%202/)
+1. Resume From [🗂 Recon 1 & 2](../02-03-Recon%201%20&%202/)
 2. Connect to SSH
 ```
 ssh parhizkar@remote.petromaz.ir -p 2200
@@ -48,7 +48,7 @@ strings 06-main | grep petro
 strings 06-main | grep maze
 ```
 8. Reverse Engineering `06-main` into `10-malware\main.go`
-9. Get Encrypted Flag `nc mazehacker.onion 8080 > mazehacker.json`
+9. Get Encrypted Flag `nc mazehacker.onion 8080 > 09-mazehacker.json`
 10. Run Decryption Code `go run 10-malware\main.go`
 
 
