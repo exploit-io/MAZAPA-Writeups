@@ -36,4 +36,5 @@ Map of Network in ReadTeam Operations (Petromaz.ir)
 
 ## Credits
 
-- [@exploitio](https://twitter.com/exploitio)
+- [@exploitio](https://x.com/exploitio)
+- [@1rpwn](https://x.com/1rpwn)
