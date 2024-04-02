@@ -15,9 +15,9 @@ Map of Network in ReadTeam Operations (Petromaz.ir)
 
 ## Challenges
 
-| ID | Challenges | Files | Video |
+| ID | Challenges | Files | Video On Telegram |
 |---|---|---|---|
-| 00 | Intro | [🗂 Files](./00-Intro/) | [👾 Videos](./00-Intro/) |
+| 00 | Intro | [🗂 Files](./00-Intro/) | [👾 Videos](https://t.me/securation/1657) |
 | 01 | Sanity Check | [🗂 Files](./01-Sanity-Check/) | [👾 Videos](./00-Intro/) |
 | 02 | Recon 1 | [🗂 Files](./02-03-Recon%201%20&%202/) | [👾 Videos](./00-Intro/) |
 | 03 | Recon 2 | [🗂 Files](./02-03-Recon%201%20&%202/) | [👾 Videos](./00-Intro/) |
