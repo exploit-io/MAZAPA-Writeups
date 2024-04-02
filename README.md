@@ -19,7 +19,7 @@ Map of Network in ReadTeam Operations (Petromaz.ir)
 |---|---|---|---|
 | 00 | Intro | [🗂 Files](./00-Intro/) | [🎥 Video](https://t.me/securation/1657) |
 | 01 | Sanity Check | [🗂 Files](./01-Sanity-Check/) | [👾 Coming Soon ...](./00-Intro/) |
-| 02 | Recon 1 | [🗂 Files](./02-03-Recon%201%20&%202/) | [👾 👾 Coming Soon ...](./00-Intro/) |
+| 02 | Recon 1 | [🗂 Files](./02-03-Recon%201%20&%202/) | [👾 Coming Soon ...](./00-Intro/) |
 | 03 | Recon 2 | [🗂 Files](./02-03-Recon%201%20&%202/) | [👾 Coming Soon ...](./00-Intro/) |
 | 04 | Discovery 1 | [🗂 Files](./04-Discovery-1/) | [👾 Coming Soon ...](./00-Intro/) |
 | 05 | Lateral Movement 2 | [🗂 Files](./05-Lateral-Movement-2/) | [👾 Coming Soon ...](./00-Intro/) |
