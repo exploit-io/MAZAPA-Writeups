@@ -21,7 +21,7 @@ Map of Network in ReadTeam Operations (Petromaz.ir)
 | 01 | Sanity Check | [🗂 Files](./01-Sanity-Check/) | [🎥 Video](https://t.me/securation/1658) |
 | 02 | Recon 1 | [🗂 Files](./02-03-Recon%201%20&%202/) | [🎥 Video](https://t.me/securation/1658) |
 | 03 | Recon 2 | [🗂 Files](./02-03-Recon%201%20&%202/) | [🎥 Video](https://t.me/securation/1658) |
-| 04 | Discovery 1 | [🗂 Files](./04-Discovery-1/) | [👾 Coming Soon ...](./00-Intro/) |
+| 04 | Discovery 1 | [🗂 Files](./04-Discovery-1/) | [🎥 Video](https://t.me/securation/1659) |
 | 05 | Lateral Movement 2 | [🗂 Files](./05-Lateral-Movement-2/) | [👾 Coming Soon ...](./00-Intro/) |
 | 06 | PC1 | [🗂 Files](./06-PC1/) | [👾 Coming Soon ...](./00-Intro/) |
 | 07 | Auction | [🗂 Files](./07-Auction/) | [👾 Coming Soon ...](./00-Intro/) |
