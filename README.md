@@ -22,8 +22,8 @@ Map of Network in ReadTeam Operations (Petromaz.ir)
 | 02 | Recon 1 | [🗂 Files](./02-03-Recon%201%20&%202/) | [🎥 Video](https://t.me/securation/1658) |
 | 03 | Recon 2 | [🗂 Files](./02-03-Recon%201%20&%202/) | [🎥 Video](https://t.me/securation/1658) |
 | 04 | Discovery 1 | [🗂 Files](./04-Discovery-1/) | [🎥 Video](https://t.me/securation/1659) |
-| 05 | Lateral Movement 2 | [🗂 Files](./05-Lateral-Movement-2/) | [👾 Coming Soon ...](./00-Intro/) |
-| 06 | PC1 | [🗂 Files](./06-PC1/) | [👾 Coming Soon ...](./00-Intro/) |
+| 05 | Lateral Movement 2 | [🗂 Files](./05-Lateral-Movement-2/) | [🎥 Video](https://t.me/securation/1660) |
+| 06 | PC1 | [🗂 Files](./06-PC1/) | [🎥 Video](https://t.me/securation/1661) |
 | 07 | Auction | [🗂 Files](./07-Auction/) | [👾 Coming Soon ...](./00-Intro/) |
 | 08 | Collection 1 | [🗂 Files](./08-Collection-1/) | [👾 Coming Soon ...](./00-Intro/) |
 | 09 | Web | [🗂 Files](./09-Web/) | [👾 Coming Soon ...](./00-Intro/) |
