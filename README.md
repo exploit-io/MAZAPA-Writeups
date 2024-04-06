@@ -28,7 +28,7 @@ Map of Network in ReadTeam Operations (Petromaz.ir)
 | 08 | Collection 1 | [🗂 Files](./08-Collection-1/) | [🎥 Video](https://t.me/securation/1663) |
 | 09 | Web | [🗂 Files](./09-Web/) | [🎥 Video](https://t.me/securation/1664) |
 | 10 | Mail Server | [🗂 Files](./10-Mail-Server/) | [🎥 Video](https://t.me/securation/1665) |
-| 11 | PC3 | [🗂 Files](./11-PC3/) | [👾 Coming Soon ...](./00-Intro/) |
+| 11 | PC3 | [🗂 Files](./11-PC3/) | [🎥 Video](https://t.me/securation/1667) |
 | 12 | VPN Server | [🗂 Files](./12-VPN-Server/) | [👾 Coming Soon ...](./00-Intro/) |
 | 13 | PC2 | [🗂 Files](./13-PC2/) | [👾 Coming Soon ...](./00-Intro/) |
 | 14 | Collection 2 | [🗂 Files](./14-Collection-2/) | [👾 Coming Soon ...](./00-Intro/) |
