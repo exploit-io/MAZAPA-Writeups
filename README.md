@@ -31,7 +31,7 @@ Map of Network in ReadTeam Operations (Petromaz.ir)
 | 11 | PC3 | [🗂 Files](./11-PC3/) | [🎥 Video](https://t.me/securation/1667) |
 | 12 | VPN Server | [🗂 Files](./12-VPN-Server/) | [🎥 Video](https://t.me/securation/1668) |
 | 13 | PC2 | [🗂 Files](./13-PC2/) | [🎥 Video](https://t.me/securation/1670) |
-| 14 | Collection 2 | [🗂 Files](./14-Collection-2/) | [👾 Coming Soon ...](./00-Intro/) |
+| 14 | Collection 2 | [🗂 Files](./14-Collection-2/) | [🎥 Video](https://t.me/securation/1672) |
 
 
 ## Credits
